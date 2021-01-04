@@ -8,7 +8,7 @@
 /fcitx/rime/**
 !/fcitx/rime/alternative.yaml
 !/fcitx/rime/cangjie5.cj3ext.dict.yaml
-!/fcitx/rime/canjie5.custom.yaml
+!/fcitx/rime/cangjie5.custom.yaml
 !/fcitx/rime/default.custom.yaml
 
 # material skin
