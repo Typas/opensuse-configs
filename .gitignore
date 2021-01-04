@@ -1,6 +1,6 @@
-*
-.*
+/**
 !/.gitignore
+
 !/fcitx/rime/alternative.yaml
 !/fcitx/rime/cangjie5.cj3ext.dict.yaml
 !/fcitx/rime/canjie5.custom.yaml
