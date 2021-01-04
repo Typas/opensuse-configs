@@ -1,0 +1,9 @@
+*
+.*
+!/.gitignore
+!/fcitx/rime/alternative.yaml
+!/fcitx/rime/cangjie5.cj3ext.dict.yaml
+!/fcitx/rime/canjie5.custom.yaml
+!/fcitx/rime/default.custom.yaml
+!/fcitx/skin/material/*
+!/fontconfig/fonts.conf
